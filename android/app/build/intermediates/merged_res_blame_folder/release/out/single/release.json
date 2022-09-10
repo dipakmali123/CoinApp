@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-mdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-hdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xxxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-mdpi_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/mipmap-hdpi_logo.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/drawable_bootsplash.xml.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/src/main/res/drawable/bootsplash.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_torum.jpeg.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_torum.jpeg"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/Desktop/dipak_Latest/coinApp/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]

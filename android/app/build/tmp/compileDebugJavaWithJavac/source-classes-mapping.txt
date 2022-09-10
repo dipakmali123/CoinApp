@@ -1,0 +1,14 @@
+com/rnsplashandiconexample/MainApplication.java
+ com.coinapp.MainApplication
+ com.coinapp.MainApplication$1
+com/rnsplashandiconexample/ReactNativeFlipper.java
+ com.rnsplashandiconexample.ReactNativeFlipper
+ com.rnsplashandiconexample.ReactNativeFlipper$1
+ com.rnsplashandiconexample.ReactNativeFlipper$2
+ com.rnsplashandiconexample.ReactNativeFlipper$2$1
+com/rnsplashandiconexample/MainActivity.java
+ com.coinapp.MainActivity
+com/coinapp/BuildConfig.java
+ com.coinapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
