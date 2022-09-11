@@ -1,33 +1,5 @@
-import React, {useContext} from 'react';
-import {View, Text, StyleSheet, ScrollView, Dimensions} from 'react-native';
+import {StyleSheet, Dimensions} from 'react-native';
 const screenWidth = Dimensions.get('window').width;
-import Context from '../context/Context';
-import ChartBlock from '../component/chart';
-
-const DetailScreen = ({route, navigation}) => {
-  const postData = route?.params?.post;
-  const context = useContext(Context);
-  const {tasks} = context;
-  console.log(tasks, 'TASKS');
-  return (
-    <View style={styles.screenContainer}>
-      <Text style={styles.title}>Coin Details</Text>
-      <ChartBlock />
-      <ScrollView style={styles.container}>
-        <Text style={styles.header}>Coin Set ({postData?.id})</Text>
-        <View style={styles.post}>
-          <Text>{postData?.body}</Text>
-        </View>
-        <React.Fragment>
-          <Text style={styles.commentHeader}>Comments</Text>
-          <View style={styles.post}>
-            <Text>{postData?.name}</Text>
-          </View>
-        </React.Fragment>
-      </ScrollView>
-    </View>
-  );
-};
 
 const styles = StyleSheet.create({
   screenContainer: {
@@ -92,7 +64,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
     borderRadius: 4,
     elevation: 3,
-    backgroundColor: 'black',
+    backgroundColor: '#a42138',
     width: screenWidth * 0.75,
   },
   text: {
@@ -105,4 +77,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default DetailScreen;
+export default styles;

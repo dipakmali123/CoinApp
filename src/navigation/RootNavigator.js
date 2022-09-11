@@ -4,10 +4,10 @@ import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import RNBootSplash from 'react-native-bootsplash';
 import {QueryClient, QueryClientProvider} from 'react-query';
 
-import HomeScreen from '../screens/HomeScreen';
-import DetailScreen from '../screens/DetailScreen';
-import SplashScreen from '../screens/SplashScreen';
-import WalletScreen from '../screens/WalletScreen';
+import HomeScreen from '../screens/Home/HomeScreen';
+import DetailScreen from '../screens/Details/DetailScreen';
+import SplashScreen from '../screens/Splash/SplashScreen';
+import WalletScreen from '../screens/Wallet/WalletScreen';
 import CartScreen from '../screens/CartScreen';
 
 import GlobalState from '../context/GlobalState';

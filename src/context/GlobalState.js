@@ -12,7 +12,9 @@ const GlobalState = ({children}) => {
   const deleteTask = taskId => {
     tasks.map((val, index) => {
       if (val.id === taskId) {
-        setTasks(tasks.splice(index, 1));
+        console.log('TESTED', val);
+        const modifiedTasks = tasks.splice(index, 1);
+        setTasks(modifiedTasks);
       }
     });
   };

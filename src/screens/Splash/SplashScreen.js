@@ -1,7 +1,8 @@
 /* eslint-disable react-native/no-inline-styles */
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, {useEffect} from 'react';
-import {StyleSheet, Animated, Easing} from 'react-native';
+import {Animated, Easing} from 'react-native';
+import styles from './Styles';
 
 const SplashScreen = ({navigation}) => {
   const animation = new Animated.Value(0);
@@ -40,25 +41,10 @@ const SplashScreen = ({navigation}) => {
           marginBottom: introImage,
           transform: [{scale: cardScales}],
         }}
-        source={require('../assets/torum.jpeg')}
+        source={require('../../assets/torum.jpeg')}
       />
     </Animated.View>
   );
 };
-
-const styles = StyleSheet.create({
-  screenContainer: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#fff',
-  },
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#fff',
-  },
-});
 
 export default SplashScreen;
