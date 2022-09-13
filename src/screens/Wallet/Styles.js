@@ -24,6 +24,17 @@ const styles = StyleSheet.create({
     padding: 8,
     fontSize: 15,
   },
+  noDataClass: {
+    alignSelf: 'center',
+    padding: 8,
+    fontSize: 15,
+  },
+  noDataText: {
+    alignSelf: 'center',
+    padding: 8,
+    fontSize: 15,
+    color: '#a42138',
+  },
 });
 
 export default styles;

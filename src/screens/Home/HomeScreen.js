@@ -46,7 +46,7 @@ const HomeScreen = ({navigation}) => {
     }
   };
 
-  useEffect(checkDataSelected, []);
+  useEffect(checkDataSelected, [tasks]);
 
   return (
     <View style={styles.screenContainer}>
